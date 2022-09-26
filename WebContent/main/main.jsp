@@ -5,7 +5,7 @@
 <%@ include file="../header.jsp" %>
 
 	<section>
-		메인 섹션
+		메인 섹션dsadsads
 	</section>
 
 
