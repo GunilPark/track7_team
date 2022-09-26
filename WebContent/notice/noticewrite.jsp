@@ -1,12 +1,8 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>게시판</title>
-
-  <link href="main.css" rel="stylesheet">
-</head>
-<body>
+<%@ include file="../header.jsp" %>
 <section>
 <div class="Write">
 
@@ -44,6 +40,11 @@
 </div>
 
 
+
+</section>
+<%@ include file="../footer.jsp" %>		
+</body>
+</html>
 
 </section>
 </body>
