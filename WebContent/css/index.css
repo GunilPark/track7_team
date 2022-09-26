@@ -178,10 +178,11 @@ nav img.nav_logo{
 nav ul li{
     display: inline-block; 
 }  
-nav ul li img .Login_Icon{
-    display: inline-block; 
-    margin-left: 20px;
-    margin-bottom: 25px;
+nav img.Login_Icon{
+    display: inline-block;
+    height: 50px;
+    padding-left: 300px;
+    margin: 15px auto;
 }  
 nav ul li img{
     display: inline-block; 
@@ -244,9 +245,12 @@ video { height: 100%; }
     border-radius: 55px;
 }
 .Advertisement_Logo_Right{
-    background-color: rgb(80, 108, 86); 
     width: 200px; 
     height: 150px;
+    overflow: hidden;
+    margin: 0px auto; 
+    position: relative;
+    border-radius: 55px;
 }
 
    
