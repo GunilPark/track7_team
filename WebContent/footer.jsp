@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 </html>
 	<footer>
-		푸터
+		푸터입니다.
 	</footer>
 </body>
 </html>
